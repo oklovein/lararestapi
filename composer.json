@@ -1,0 +1,11 @@
+{
+    "name": "prakash/lararestapi",
+    "description": "Laravel API Project",
+    "authors": [
+        {
+            "name": "Prakash M",
+            "email": "lovein_2222@yahoo.com"
+        }
+    ],
+    "require": {}
+}
